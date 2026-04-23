@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-//Reattempt at Euler problem 9 with cleaner code. Description: https://projecteuler.net/problem=9
+//Reattempt at Euler problem 9 with cleaner code, description: https://projecteuler.net/problem=9
 
 public class Pythag2 {
 

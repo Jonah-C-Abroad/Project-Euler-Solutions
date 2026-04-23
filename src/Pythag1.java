@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.lang.Math;
-//Euler problem number 9 First Attempt: Special Pythagorean Triplet. Description: https://projecteuler.net/problem=9
+//Euler problem number 9 First Attempt: Special Pythagorean Triplet, description: https://projecteuler.net/problem=9
 
 public class Pythag1 {
     static ArrayList<Integer> nums = new ArrayList<>();
